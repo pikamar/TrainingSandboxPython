@@ -5,7 +5,7 @@
 import re
 import sys
 #sys.path.append( "helper" )
-from helper.re_helper import test_patterns
+from helper import test_patterns
 
 print ("\n##########> RE search()")
 
